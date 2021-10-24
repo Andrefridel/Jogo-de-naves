@@ -37,5 +37,3 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 
 
-<!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >ANDRÉ LUIZ</a></h4>
